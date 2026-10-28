@@ -15,3 +15,7 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 - Item 3
 
 ![Mona the Octocat](https://octodex.github.com/images/original.png)
+
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
