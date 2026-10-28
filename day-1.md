@@ -13,3 +13,5 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 - Item 1
 - Item 2
 - Item 3
+
+![Mona the Octocat](https://octodex.github.com/images/original.png)
